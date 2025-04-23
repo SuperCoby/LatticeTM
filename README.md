@@ -6,7 +6,7 @@
 <a href="https://www.blender.org/" target="blank">
 <img src="https://img.shields.io/badge/Blender-4.1-2" alt="Blender 4.1" />
 </a>
-<img src="https://img.shields.io/badge/Trackmania-blender%20Lattice-brightgreen" alt="Trackmania"/>
+<img src="https://img.shields.io/badge/Trackmania-Lattice-brightgreen" alt="Trackmania"/>
 
 Features:
  - Creates a lattice with 4 linked Bezier curves
