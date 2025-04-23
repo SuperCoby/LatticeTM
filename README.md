@@ -21,7 +21,8 @@ Features:
  - Use the sliders in the UI to edit each curve's point (X, Y, Z)
  - Use "Reset All Curve Points" to restore default shape
 
-  ![lattice](https://github.com/user-attachments/assets/44727292-2719-4db7-8949-16ef91212203)
+  ![lattice](https://github.com/user-attachments/assets/326e2b76-cd5c-47f5-a87f-ab1894c250ab)
+
 
 
 
